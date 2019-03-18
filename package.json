@@ -1,6 +1,6 @@
 {
   "name": "elastic-batch-file",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Create Elasticsearch _bulk files from an array",
   "main": "index.js",
   "repository": {
