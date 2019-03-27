@@ -4,6 +4,10 @@ The easiest way to get large amounts of data into an Elasticsearch index is by u
 
 This script creates \_bulk-compatible files from regular JavaScript arrays.
 
+## Installation
+
+    npm install elastic-batch-file
+
 ## Usage
 
     const batch = require('elastic-batch-file')
